@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.highlight1 {
+    background-color: #3498db; /* Color for first click */
+    color: white; /* Text color for first click */
+}
+
+.highlight2 {
+    background-color: #e74c3c; /* Color for second click */
+    color: white; /* Text color for second click */
+}
+
+.highlight3 {
+    background-color: #2ecc71; /* Color for third click */
+    color: white; /* Text color for third click */
+}
+
+.highlightText {
+    color: yellow; /* Text color when clicked */
+}
